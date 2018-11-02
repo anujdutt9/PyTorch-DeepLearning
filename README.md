@@ -4,7 +4,7 @@
 
 # Requirements
 
-**1. Python3.5+**
+**1. Python 3.5+**
 
 **2. PyTorch (Latest Version)**
 ```
