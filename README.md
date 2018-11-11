@@ -11,6 +11,13 @@
 pip3 install torch torchvision
 ```
 
+or 
+
+```
+conda install pytorch -c pytorch
+pip3 install torchvision
+```
+
 **Linux/Mac OS/GPU supported Installation:**
 ```
 http://pytorch.org/
