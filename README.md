@@ -6,7 +6,7 @@
 
 **1. Python 3.5+**
 
-**2. PyTorch (Latest Version)**
+**2. PyTorch 0.4**
 ```
 pip3 install torch torchvision
 ```
