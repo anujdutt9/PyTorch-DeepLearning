@@ -718,10 +718,4 @@ print("Saved ResNet Model...")
 ```
 
     Saved ResNet Model...
-
-
-    /usr/local/lib/python3.6/dist-packages/torch/serialization.py:360: UserWarning: Couldn't retrieve source code for container of type ResNet. It won't be checked for correctness upon loading.
-      "type " + obj.__name__ + ". It won't be checked "
-    /usr/local/lib/python3.6/dist-packages/torch/serialization.py:360: UserWarning: Couldn't retrieve source code for container of type ResidualBlock. It won't be checked for correctness upon loading.
-      "type " + obj.__name__ + ". It won't be checked "
-
+    
