@@ -4,9 +4,9 @@
 
 # Requirements
 
-**1. Python 3.5+**
+**1. Python 3+**
 
-**2. PyTorch 0.4**
+**2. PyTorch 1.5**
 ```
 pip3 install torch torchvision
 ```
